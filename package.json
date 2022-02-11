@@ -1,0 +1,17 @@
+{
+  "name": "node-samp-favorite",
+  "version": "1.0.0",
+  "description": "Module for getting servers from the SAMP favorites list",
+  "main": "samp-favorite.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hertanion/node-samp-favorite.git"
+  },
+  "type": "module",
+  "author": "hertanion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hertanion/node-samp-favorite/issues"
+  },
+  "homepage": "https://github.com/hertanion/node-samp-favorite#readme"
+}
